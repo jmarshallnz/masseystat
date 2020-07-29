@@ -1,0 +1,12 @@
+Package: masseystat
+Type: Package
+Title: Some helper statistics functions for Massey
+Version: 0.1.0
+Authors@R: person("Jonathan", "Marshall", email = "J.C.Marshall@massey.ac.nz", role = c("aut", "cre"))
+Description: A bunch of helper functions for Statistics teaching at Massey University.
+License: GPL-3
+Encoding: UTF-8
+URL: https://github.com/jmarshallnz/masseystat
+Imports: dplyr(>= 1.0.0), forcats, magrittr, purrr, sn, tibble, tidyr(>= 1.1.0)
+LazyData: TRUE
+RoxygenNote: 7.1.0
