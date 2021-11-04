@@ -9,4 +9,4 @@ Encoding: UTF-8
 URL: https://github.com/jmarshallnz/masseystat
 Imports: dplyr(>= 1.0.0), forcats, magrittr, purrr, sn, tibble, tidyr(>= 1.1.0)
 LazyData: TRUE
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.2
